@@ -4,6 +4,10 @@
 
 It was great to start with flutter, I am very happy to show up my work here. I have developed this small and interesting puzzle game on #flutter. I have Successfully pushed the app to production #googleplaystore. #flutter development is very Quick and easy with #Dart programming. Please try my first Android App and give me your valuable feedback on it. Total development time 6 Days (Learning + Coding).
 
+<img src="https://github.com/Narayanareddy96/Smart-brain-Game-in-Flutter/blob/master/assets/Screen%20Shot%202019-04-02%20at%208.35.57%20PM.png" width="30%"><img src="https://github.com/Narayanareddy96/Smart-brain-Game-in-Flutter/blob/master/assets/Screen%20Shot%202019-04-02%20at%208.45.49%20PM.png" width="30%"><img src="https://github.com/Narayanareddy96/Smart-brain-Game-in-Flutter/blob/master/assets/Screen%20Shot%202019-04-02%20at%208.47.47%20PM.png" width="30%"><img src="https://github.com/Narayanareddy96/Smart-brain-Game-in-Flutter/blob/master/assets/Screen%20Shot%202019-04-02%20at%208.48.27%20PM.png" width="30%"><img src="https://github.com/Narayanareddy96/Smart-brain-Game-in-Flutter/blob/master/assets/Screen%20Shot%202019-04-02%20at%208.42.25%20PM.png" width="30%">
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
