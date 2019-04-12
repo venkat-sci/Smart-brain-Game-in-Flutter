@@ -1,6 +1,8 @@
-# timmergame
+# Smart Brain A Flutter Game for both Androud and Ios.
 
-A new Flutter project.
+<a href="https://play.google.com/store/apps/details?id=com.gvnreddy.timmergame&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" scale="0"></a>
+
+It was great to start with flutter, I am very happy to show up my work here. I have developed this small and interesting puzzle game on #flutter. I have Successfully pushed the app to production #googleplaystore. #flutter development is very Quick and easy with #Dart programming. Please try my first Android App and give me your valuable feedback on it. Total development time 6 Days (Learning + Coding).
 
 ## Getting Started
 
